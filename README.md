@@ -12,3 +12,8 @@
 >- The filter should only display quotes whose text contains the entered substring.
 >- The data should be fetched from the API only once, and the results should be filtered using JavaScript.
 >- Display an error message if the API call fails
+
+### Preview:
+> Quotes List
+
+![Quotes List](https://github.com/zaqoutabed/Code2Career/blob/main/docs-images/main-1.png)
