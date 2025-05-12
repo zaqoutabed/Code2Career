@@ -15,5 +15,11 @@
 
 ### Preview:
 > Quotes List
-
 ![Quotes List](https://github.com/zaqoutabed/Code2Career/blob/main/docs-images/main-1.png)
+
+> Quotes List (Search)
+![Quotes List](https://github.com/zaqoutabed/Code2Career/blob/main/docs-images/search-1.png)
+
+> Not found serch
+![Quotes List](https://github.com/zaqoutabed/Code2Career/blob/main/docs-images/not-found-1.png)
+
